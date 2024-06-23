@@ -1,5 +1,8 @@
 # Sorteador de Números
 
+![print do projeto](https://github.com/GFerrDev/sorteadorDeNumeros/blob/main/img/screenshot.png?raw=true)
+
+
 Projeto desenvolvido durante o curso da Alura no programa Geração Caldeira do Instituto Caldeira. Este projeto é um sorteador de números, onde o usuário pode definir a quantidade de números a serem sorteados e o intervalo de números possíveis.
 
 ## Funcionalidades
